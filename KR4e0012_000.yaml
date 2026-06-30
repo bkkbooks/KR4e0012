@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0012/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部六
+  hash: sha256:859be96469d41da55102a3ac10450a959c78b164b3aa3213a08844c2a3407181
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0012_WYG_000-1a, image: WYG1226/WYG1226-0647a.png}
+body:
+  text: 說學齊稿别集類五明提要臣等謹案說學齊稿四卷明危素撰素有草廬年譜已著録據千頃堂書目其文集本五十卷明代已散佚不存此本乃嘉靖三十八年歸有光從吳氏得素手稿傳抄其文不分卷帙但於紙尾記所作年嵗皆在元時所作有光跋稱共一百三十六篇此本乃止一百三十三篇又王懋竑白田雜著有是集跋稱賦三贊二銘二頌三記五十有一序七十有六共一百三十八首以有光跋為傳寫之誤然據懋竑所列實止一百三十七首數亦不符殆舊無刋板好事者遞相傳録故篇數參差不能畫一實則一本也素晚節不終為世謬笑其人本不足稱而文章則歐虞黃栁之後屹為大宗懋竑跋稱其文演迤澄泓視之若平易而實不可幾及非熙甫莫知其深其珍重鈔傳蓋非漫然矣乾隆四十六年四月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:728c2bf33ac63ca41f129eb68308d6328e535e6a0feec4a1b84a86fe42cb1fa6
+metadata:
+  title: 說學齋稿
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:16:13.570145'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4e0012/KR4e0012_000.txt
+hash: sha256:fc153f394104af952d627d40c73698720a1b4b051bb1a1013be172683b145407
